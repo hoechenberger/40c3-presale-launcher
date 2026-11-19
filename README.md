@@ -17,5 +17,3 @@ mise exec -- pnpm check
 mise exec -- pnpm test
 mise exec -- pnpm build
 ```
-
-The production output is in `dist/`. Relative asset paths let it work at a GitHub Pages project subpath once you set up deployment.
